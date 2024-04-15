@@ -1,4 +1,4 @@
-# The .gitignore file specifies files and directories that should not be included in version control.
+# Git ignore for PhysioData Toolbox project.
 
-# For example: the following line excludes the entire .vscode folder from version control
-.vscode/
+# MATLAB autosave files:
+*.asv
